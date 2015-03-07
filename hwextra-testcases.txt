@@ -1,0 +1,7 @@
+My test cases are located in my main.c file and the output is as folllows:
+
+Error, not enough memory left for your data to be alloced in file main.c at line 17.
+Error:Multiple frees of same pointer without malloc in file main.c at line 21.
+Error trying to free pointer that was never allocated in file main.c at line 25.
+Error: pointer was never alloced in file main.c at line 29.
+
